@@ -1,0 +1,188 @@
+[
+    {
+        "opinion_id": "16772546",
+        "author": "j...z",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "jakość dźwięku",
+            "jakość obrazu",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "like": "1",
+        "dislike": "3",
+        "publish_date": "2022-11-21 19:06:12",
+        "purchase_date": "2022-11-19 12:30:39"
+    },
+    {
+        "opinion_id": "16812169",
+        "author": "j...k",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "jakość dźwięku",
+            "jakość obrazu",
+            "łatwość obsługi"
+        ],
+        "cons": [],
+        "like": "1",
+        "dislike": "4",
+        "publish_date": "2022-11-30 14:48:56",
+        "purchase_date": "2022-11-25 18:00:17"
+    },
+    {
+        "opinion_id": "16646403",
+        "author": "l...2",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "jakość dźwięku",
+            "jakość obrazu",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "like": "7",
+        "dislike": "2",
+        "publish_date": "2022-10-18 17:50:01",
+        "purchase_date": "2022-10-06 10:14:14"
+    },
+    {
+        "opinion_id": "16869744",
+        "author": "s...k",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "cena do jakości",
+            "jakość dźwięku",
+            "jakość obrazu",
+            "kąty widzenia",
+            "kolory",
+            "wygląd"
+        ],
+        "cons": [
+            "pilot"
+        ],
+        "like": "2",
+        "dislike": "0",
+        "publish_date": "2022-12-12 22:51:31",
+        "purchase_date": "2022-11-25 11:30:50"
+    },
+    {
+        "opinion_id": "16920403",
+        "author": "Paweł",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "cena do jakości",
+            "jakość dźwięku",
+            "jakość obrazu",
+            "kąty widzenia",
+            "kolory",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [
+            "materiały obudowy"
+        ],
+        "like": "1",
+        "dislike": "0",
+        "publish_date": "2022-12-22 22:25:17",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "16868794",
+        "author": "d...s",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "jakość obrazu",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [
+            "jakość dźwięku"
+        ],
+        "like": "3",
+        "dislike": "2",
+        "publish_date": "2022-12-12 20:44:47",
+        "purchase_date": "2022-11-26 16:54:51"
+    },
+    {
+        "opinion_id": "16768235",
+        "author": "m...e",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "wygląd"
+        ],
+        "cons": [],
+        "like": "0",
+        "dislike": "1",
+        "publish_date": "2022-11-19 19:51:22",
+        "purchase_date": "2022-11-15 10:54:51"
+    },
+    {
+        "opinion_id": "16854030",
+        "author": "a...8",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [],
+        "cons": [],
+        "like": "0",
+        "dislike": "0",
+        "publish_date": "2022-12-08 21:59:39",
+        "purchase_date": "2022-11-30 22:55:11"
+    },
+    {
+        "opinion_id": "17246013",
+        "author": "ULRICH",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "jakość dźwięku",
+            "jakość obrazu",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "like": "0",
+        "dislike": "0",
+        "publish_date": "2023-03-09 16:42:15",
+        "purchase_date": "2023-02-28 13:58:23"
+    },
+    {
+        "opinion_id": "17164689",
+        "author": "m...5",
+        "recomendation": "Polecam",
+        "score": null,
+        "description": null,
+        "pros": [
+            "cena do jakości",
+            "jakość dźwięku",
+            "jakość obrazu",
+            "kąty widzenia",
+            "kolory",
+            "łatwość obsługi",
+            "materiały obudowy",
+            "pilot",
+            "wygląd"
+        ],
+        "cons": [],
+        "like": "0",
+        "dislike": "0",
+        "publish_date": "2023-02-19 17:12:38",
+        "purchase_date": "2023-02-14 15:30:33"
+    }
+]

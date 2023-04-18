@@ -3,10 +3,12 @@ from bs4 import BeautifulSoup
 import os
 import json
 
-def get_something(dom_tree, selector, attribute = None):
+def get_element(dom_tree, selector, attribute = None):
      try:
         if attribute:
-             return dom_tree.select(selector)[attribute].text.strip()
+            if selector:
+                return dom_tree.select(selector)[attribute].text.strip()
+            return dom_tree(attribute)
         return dom_tree.select(selector).text.strip()
      except AttributeError:
           recomendation = None
@@ -34,8 +36,11 @@ while url:
                     recomendation = opinion.select_one("span.user-post__author-recomendation").text.strip()
                 except AttributeError:
                     recomendation = None
-                score = opinion.select_one("span.user-post__score-count").text.strip()
-                description = opinion.select_one("div.user-post__text").text.strip()
+                score = get_element(opinion, "span.user-post__score-count")
+                #score = opinion.select_one("span.user-post__score-count").text.strip()
+                description = get_element(opinion, "div.user-post__text")
+                #description = opinion.select_one("div.user-post__text").text.strip()
+                #pros = get_element()
                 pros = opinion.select("div.review-feature__col:has( > div.review-feature__title--positives) > div.review-feature__item")
                 pros = [p.text.strip() for p in pros]
                 cons = opinion.select("div.review-feature__col:has( > div.review-feature__title--negatives) > div.review-feature__item")
