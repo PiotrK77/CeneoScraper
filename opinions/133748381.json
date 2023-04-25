@@ -5,13 +5,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "jakość dźwięku",
-            "jakość obrazu",
-            "łatwość obsługi",
-            "wygląd"
-        ],
-        "cons": [],
+        "pros": "jakość dźwięku, jakość obrazu, łatwość obsługi, wygląd",
+        "cons": "",
         "like": "1",
         "dislike": "3",
         "publish_date": "2022-11-21 19:06:12",
@@ -23,12 +18,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "jakość dźwięku",
-            "jakość obrazu",
-            "łatwość obsługi"
-        ],
-        "cons": [],
+        "pros": "jakość dźwięku, jakość obrazu, łatwość obsługi",
+        "cons": "",
         "like": "1",
         "dislike": "4",
         "publish_date": "2022-11-30 14:48:56",
@@ -40,13 +31,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "jakość dźwięku",
-            "jakość obrazu",
-            "łatwość obsługi",
-            "wygląd"
-        ],
-        "cons": [],
+        "pros": "jakość dźwięku, jakość obrazu, łatwość obsługi, wygląd",
+        "cons": "",
         "like": "7",
         "dislike": "2",
         "publish_date": "2022-10-18 17:50:01",
@@ -58,17 +44,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "cena do jakości",
-            "jakość dźwięku",
-            "jakość obrazu",
-            "kąty widzenia",
-            "kolory",
-            "wygląd"
-        ],
-        "cons": [
-            "pilot"
-        ],
+        "pros": "cena do jakości, jakość dźwięku, jakość obrazu, kąty widzenia, kolory, wygląd",
+        "cons": "pilot",
         "like": "2",
         "dislike": "0",
         "publish_date": "2022-12-12 22:51:31",
@@ -80,18 +57,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "cena do jakości",
-            "jakość dźwięku",
-            "jakość obrazu",
-            "kąty widzenia",
-            "kolory",
-            "łatwość obsługi",
-            "wygląd"
-        ],
-        "cons": [
-            "materiały obudowy"
-        ],
+        "pros": "cena do jakości, jakość dźwięku, jakość obrazu, kąty widzenia, kolory, łatwość obsługi, wygląd",
+        "cons": "materiały obudowy",
         "like": "1",
         "dislike": "0",
         "publish_date": "2022-12-22 22:25:17",
@@ -103,14 +70,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "jakość obrazu",
-            "łatwość obsługi",
-            "wygląd"
-        ],
-        "cons": [
-            "jakość dźwięku"
-        ],
+        "pros": "jakość obrazu, łatwość obsługi, wygląd",
+        "cons": "jakość dźwięku",
         "like": "3",
         "dislike": "2",
         "publish_date": "2022-12-12 20:44:47",
@@ -122,10 +83,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "wygląd"
-        ],
-        "cons": [],
+        "pros": "wygląd",
+        "cons": "",
         "like": "0",
         "dislike": "1",
         "publish_date": "2022-11-19 19:51:22",
@@ -137,8 +96,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [],
-        "cons": [],
+        "pros": "",
+        "cons": "",
         "like": "0",
         "dislike": "0",
         "publish_date": "2022-12-08 21:59:39",
@@ -150,13 +109,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "jakość dźwięku",
-            "jakość obrazu",
-            "łatwość obsługi",
-            "wygląd"
-        ],
-        "cons": [],
+        "pros": "jakość dźwięku, jakość obrazu, łatwość obsługi, wygląd",
+        "cons": "",
         "like": "0",
         "dislike": "0",
         "publish_date": "2023-03-09 16:42:15",
@@ -168,18 +122,8 @@
         "recomendation": "Polecam",
         "score": null,
         "description": null,
-        "pros": [
-            "cena do jakości",
-            "jakość dźwięku",
-            "jakość obrazu",
-            "kąty widzenia",
-            "kolory",
-            "łatwość obsługi",
-            "materiały obudowy",
-            "pilot",
-            "wygląd"
-        ],
-        "cons": [],
+        "pros": "cena do jakości, jakość dźwięku, jakość obrazu, kąty widzenia, kolory, łatwość obsługi, materiały obudowy, pilot, wygląd",
+        "cons": "",
         "like": "0",
         "dislike": "0",
         "publish_date": "2023-02-19 17:12:38",
